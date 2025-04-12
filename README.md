@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![LOGO](/Hewkick logo 黑底白字.png)
+![LOGO](/Hewkick%20logo%20%E9%BB%91%E5%BA%95%E7%99%BD%E5%AD%97.png)
 
 - 🌱 I am Hewkick
 - 🌱 我是 Hewkick
