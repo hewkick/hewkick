@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![LOGO](Hewkick logo 黑底白字.png)
+
 - 🌱 I am Hewkick
 - 🌱 我是 Hewkick
 - 😄 Actually, you can easily find my real name in GITHUB
